@@ -1,2 +1,2 @@
 # goodandcheap
-auction website
+Gaming as Shopping
